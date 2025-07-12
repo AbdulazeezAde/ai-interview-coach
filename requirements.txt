@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+transformers
+soundfile
+librosa
+numpy
+scipy
+python-dotenv
